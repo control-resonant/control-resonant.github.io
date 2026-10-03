@@ -1,0 +1,16 @@
+{
+  "status": "superseded-by-live-content",
+  "approvedAt": "2026-09-26",
+  "home": "content/generated/home.json",
+  "pages": "content/generated/pages.json",
+  "launchSlugs": [
+    "the-complete-set",
+    "dog-toy-locations",
+    "unsupervised-science",
+    "freeze-frame",
+    "combo-finishers",
+    "crossing-the-threshold",
+    "panopticon-service-request",
+    "laundromat-puzzle"
+  ]
+}

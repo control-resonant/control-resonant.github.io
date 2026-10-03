@@ -1,0 +1,9 @@
+{
+  "projectId": "site_df0cab6d-5d5f-4815-a2f1-c220883e4a3a",
+  "gameName": "CONTROL Resonant",
+  "generatedAt": "2026-09-26T13:06:24.921Z",
+  "templateVersion": "game-seo-master-template-v1",
+  "status": "superseded",
+  "supersededOn": "2026-09-26",
+  "note": "The initial deterministic two-page plan was replaced by the approved nine-page launch plan. Current scope and readiness are defined by SITE_PLAN.json, SEO_PLAN.json, content/generated/site.json, and the generated QA_REPORT.json."
+}

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title description">
+  <title id="title">CONTROL Resonant guide banner</title>
+  <desc id="description">Dark red resonance artwork for quests, puzzles, and collectibles.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080D19"/>
+      <stop offset="0.58" stop-color="#10192B"/>
+      <stop offset="1" stop-color="#1A111B"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#EF4444" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#EF4444" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="pulse" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#EF4444" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#EF4444" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#FF6B6B" stop-opacity="0.9"/>
+    </linearGradient>
+    <pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M80 0H0V80" fill="none" stroke="#8492A8" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect x="0" y="0" width="1600" height="900" rx="32"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1600" height="900" fill="url(#background)"/>
+    <rect width="1600" height="900" fill="url(#grid)"/>
+    <circle cx="1310" cy="430" r="560" fill="url(#glow)"/>
+    <g fill="none" stroke="#EF4444" stroke-opacity="0.22">
+      <circle cx="1320" cy="440" r="170" stroke-width="2"/>
+      <circle cx="1320" cy="440" r="275" stroke-width="2"/>
+      <circle cx="1320" cy="440" r="390" stroke-width="2"/>
+      <circle cx="1320" cy="440" r="520" stroke-width="2"/>
+    </g>
+    <path d="M775 515h115l30-58 42 138 45-254 39 172 34-80 41 39 35-130 41 234 36-128h233" fill="none" stroke="url(#pulse)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M795 620h670" stroke="#EF4444" stroke-opacity="0.2" stroke-width="2"/>
+    <rect x="56" y="56" width="1488" height="788" rx="28" fill="none" stroke="#EF4444" stroke-opacity="0.34" stroke-width="2"/>
+    <path d="M100 157h148" stroke="#EF4444" stroke-width="8" stroke-linecap="round"/>
+    <text x="100" y="225" fill="#FF7474" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="9">PLAYER GUIDE</text>
+    <text x="94" y="407" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="126" font-weight="800" letter-spacing="-7">CONTROL</text>
+    <text x="94" y="542" fill="#FF5757" font-family="Inter, Arial, sans-serif" font-size="126" font-weight="800" letter-spacing="-7">Resonant</text>
+    <path d="M100 612h556" stroke="#52627B" stroke-opacity="0.75" stroke-width="2"/>
+    <text x="100" y="686" fill="#D9E1EC" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="500">Guides · Puzzles · Quests · Collectibles</text>
+  </g>
+</svg>

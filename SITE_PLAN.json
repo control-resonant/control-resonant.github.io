@@ -1,0 +1,21 @@
+{
+  "project": "CONTROL Resonant Guide",
+  "approvedAt": "2026-09-26",
+  "siteUrl": "https://control-resonant.github.io",
+  "basePath": "",
+  "launchPages": [
+    "/",
+    "/the-complete-set/",
+    "/dog-toy-locations/",
+    "/unsupervised-science/",
+    "/freeze-frame/",
+    "/combo-finishers/",
+    "/crossing-the-threshold/",
+    "/panopticon-service-request/",
+    "/laundromat-puzzle/"
+  ],
+  "retiredPages": [
+    "/wiki/"
+  ],
+  "strategy": "The homepage serves broad guide, wiki and walkthrough intent. Eight focused pages serve distinct player tasks. Legal pages remain available but noindex."
+}

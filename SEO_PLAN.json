@@ -1,0 +1,82 @@
+{
+  "approvedAt": "2026-09-26",
+  "siteUrl": "https://control-resonant.github.io",
+  "canonicalPolicy": "Self-referencing root-domain URLs with trailing slash.",
+  "indexing": "Homepage and eight core guides; legal pages noindex; /wiki/ retired.",
+  "pages": [
+    {
+      "url": "/",
+      "primaryKeyword": "CONTROL Resonant",
+      "title": "CONTROL Resonant Guide, Wiki, Walkthrough & Puzzle Solutions",
+      "description": "Explore CONTROL Resonant quest walkthroughs, puzzle solutions, collectible routes and combat guides for the moments that stop you in Manhattan.",
+      "h1": "CONTROL Resonant Guide",
+      "minWords": 1200
+    },
+    {
+      "url": "/the-complete-set/",
+      "primaryKeyword": "control resonant complete set",
+      "title": "CONTROL Resonant Complete Set: All Speaker Locations",
+      "description": "Find the four speakers and subwoofer for The Complete Set, then finish the Auction House ritual with a clear route through each objective. Includes the subwoofe",
+      "h1": "CONTROL Resonant Complete Set Guide",
+      "minWords": 800
+    },
+    {
+      "url": "/dog-toy-locations/",
+      "primaryKeyword": "dog toy control resonant",
+      "title": "CONTROL Resonant Dog Toy Locations & Mysterious Dog",
+      "description": "Find every Mysterious Dog and nearby dragon toy across Manhattan, return each toy, and complete Every Dog Has Her Day. Follow practical rooftop, alley, elevator",
+      "h1": "CONTROL Resonant Dog Toy Locations",
+      "minWords": 800
+    },
+    {
+      "url": "/unsupervised-science/",
+      "primaryKeyword": "control resonant unsupervised science",
+      "title": "CONTROL Resonant Unsupervised Science Walkthrough",
+      "description": "Locate all six underground Testing Facilities, solve their two experiment types, and finish the final Threshold route. Includes entrance landmarks, timed Power ",
+      "h1": "CONTROL Resonant Unsupervised Science Walkthrough",
+      "minWords": 800
+    },
+    {
+      "url": "/freeze-frame/",
+      "primaryKeyword": "freeze frame control resonant",
+      "title": "CONTROL Resonant Freeze Frame: All Camera Locations",
+      "description": "Find all 14 altered cameras, approach each from outside its view, and finish the Freeze Frame Side Story across seven zones. Includes reset advice, traversal re",
+      "h1": "CONTROL Resonant Freeze Frame Guide",
+      "minWords": 800
+    },
+    {
+      "url": "/combo-finishers/",
+      "primaryKeyword": "control resonant combo finishers",
+      "title": "CONTROL Resonant Combo Finishers Guide",
+      "description": "Learn how to unlock, equip and trigger Combo Finishers, then choose a move for Falter pressure, crowd control or safer combat strings. Compare single-target pre",
+      "h1": "CONTROL Resonant Combo Finishers",
+      "minWords": 800
+    },
+    {
+      "url": "/crossing-the-threshold/",
+      "primaryKeyword": "crossing the threshold control resonant",
+      "title": "CONTROL Resonant Crossing the Threshold Walkthrough",
+      "description": "Follow the Field Hospital, Dig Site and Security Station evidence, find Wilson, and resolve the AVP-3 choice in Central. Includes the two-computer check and the",
+      "h1": "CONTROL Resonant Crossing the Threshold Walkthrough",
+      "minWords": 800
+    },
+    {
+      "url": "/panopticon-service-request/",
+      "primaryKeyword": "control resonant panopticon service request",
+      "title": "CONTROL Resonant Panopticon Service Request Guide",
+      "description": "Repair the security system, give Langston cell ID D-04, tune the altered radio, and finish the Central containment request. Includes component locations, the re",
+      "h1": "CONTROL Resonant Panopticon Service Request",
+      "minWords": 800
+    },
+    {
+      "url": "/laundromat-puzzle/",
+      "primaryKeyword": "control resonant laundromat puzzle",
+      "title": "CONTROL Resonant Laundromat Puzzle Solution",
+      "description": "Use the seven-row washer code in Central\u2019s Wear\u2019Em & Wash\u2019Em laundromat, open the hidden basement, and collect its Health Upgrade Point. Includes a row-by-row t",
+      "h1": "CONTROL Resonant Laundromat Puzzle Solution",
+      "minWords": 800
+    }
+  ],
+  "navigation": "All eight guides linked from header Guides menu, footer, and homepage.",
+  "schema": "WebSite and FAQPage on home; WebPage, BreadcrumbList, visible FAQPage and HowTo where applicable on guides."
+}

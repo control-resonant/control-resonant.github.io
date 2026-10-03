@@ -1,0 +1,45 @@
+{
+  "generatedBy": "npm run audit:seo",
+  "generatedAt": "2026-09-30T04:45:33.897Z",
+  "passed": true,
+  "warnings": [],
+  "contentPages": 14,
+  "checkedRoutes": [
+    "/",
+    "/about/",
+    "/combo-finishers/",
+    "/contact/",
+    "/copyright/",
+    "/crossing-the-threshold/",
+    "/dog-toy-locations/",
+    "/freeze-frame/",
+    "/laundromat-puzzle/",
+    "/panopticon-service-request/",
+    "/privacy/",
+    "/terms/",
+    "/the-complete-set/",
+    "/unsupervised-science/"
+  ],
+  "wordCounts": {
+    "/": 1234,
+    "/the-complete-set/": 1130,
+    "/dog-toy-locations/": 1027,
+    "/unsupervised-science/": 1153,
+    "/freeze-frame/": 1085,
+    "/combo-finishers/": 1125,
+    "/crossing-the-threshold/": 1056,
+    "/panopticon-service-request/": 1030,
+    "/laundromat-puzzle/": 1003
+  },
+  "checks": [
+    "static route coverage",
+    "single H1",
+    "metadata and self canonical",
+    "internal links",
+    "header guide access",
+    "minimum word count",
+    "duplicate paragraphs",
+    "forbidden production copy",
+    "section rendering"
+  ]
+}

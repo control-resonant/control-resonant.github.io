@@ -1,0 +1,33 @@
+{
+  "name": "game-wiki-template-github-io",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint .",
+    "validate": "node --import tsx scripts/validate-config.ts && node scripts/audit-clean.mjs",
+    "build": "npm run validate && npm run build:site && npm run audit:seo",
+    "build:site": "next build --webpack && node scripts/postbuild.mjs",
+    "audit:seo": "node --import tsx scripts/audit-seo.ts",
+    "package": "node scripts/package-template.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "next": "^16.3.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.17.0",
+    "eslint-config-next": "^16.3.1",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

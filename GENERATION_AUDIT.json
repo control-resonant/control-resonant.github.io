@@ -1,0 +1,5 @@
+{
+  "status": "superseded",
+  "supersededOn": "2026-09-26",
+  "note": "Historical generator audit for the original draft. Run npm run build for the current static site and read QA_REPORT.json for the current SEO audit."
+}

@@ -1,0 +1,1531 @@
+[
+  {
+    "enabled": true,
+    "slug": "the-complete-set",
+    "pageType": "guide",
+    "navLabel": "The Complete Set",
+    "title": "CONTROL Resonant Complete Set: All Speaker Locations",
+    "description": "Find all four speakers and the subwoofer for The Complete Set in CONTROL Resonant, then finish the Auction House ritual with a clear route.",
+    "keywords": [
+      "control resonant complete set"
+    ],
+    "primaryKeyword": "control resonant complete set",
+    "secondaryKeywords": [],
+    "searchIntent": "Practical help for The Complete Set",
+    "priority": "P0",
+    "navVisible": true,
+    "wordCountTarget": 800,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "PLAYER GUIDE",
+      "heading": "CONTROL Resonant Complete Set Guide",
+      "lead": "The Complete Set sends Dylan after four altered speakers and a subwoofer before a ritual at the Auction House. Use this route to separate collection from the final interaction."
+    },
+    "sections": [
+      {
+        "id": "quick-answer",
+        "heading": "Quick Answer",
+        "intro": "Begin by examining the speaker and flyer outside the Frontline Construction site in southwest Central, or investigate the Auction House in northern Downtown. Track the four speakers and subwoofer, then bring the complete set to the leather couch in the Auction House.",
+        "paragraphs": [
+          "The objective is about distinct altered objects, not five copies of an ordinary pickup. A speaker can draw your attention through sound and unusual activity. Check the quest log after interacting with each one, then return to the Auction House only when the set is complete. The room and the couch are the decisive landmarks for the final ritual.",
+          "If you encounter the Auction House first, read the notes and take the audiolog by the couch. The clues send you toward Langston in Central and the Auction Buyer’s Apartment. That is a useful alternative start when you did not notice the flyer beside the Frontline site."
+        ]
+      },
+      {
+        "id": "how-to-start-the-complete-set",
+        "heading": "How to Start The Complete Set",
+        "intro": "The southwest Central Frontline Construction site has an outdoor speaker and a flyer. Interact with both to add the Side Story. The other opening is the Auction House on the south side of the Dense Patterning area in northern Downtown.",
+        "paragraphs": [
+          "At the Auction House, distinguish the ritual room from the rest of the building. The leather couch is where the collected set eventually belongs. The audiolog nearby gives the investigation a direction instead of leaving you to infer the subwoofer’s whereabouts from a map icon alone.",
+          "A sensible route is to activate the story at either entry point, inspect the Auction House clues, then collect the marked objects as you travel through Manhattan. Several zones are easier to traverse after additional abilities, so there is no advantage in forcing a dangerous detour when the map and quest log already preserve your progress."
+        ]
+      },
+      {
+        "id": "all-required-locations",
+        "heading": "All Required Locations",
+        "intro": "The set consists of four speakers and one subwoofer. The useful landmarks are the Auction House, Frontline Construction, an Atlantis coffee shop, and the Museum of Curiosities; Langston supplies access to the subwoofer.",
+        "paragraphs": [
+          "The Auction House speaker becomes active after you speak with the civilian. It moves, so wait for a pause and interact rather than treating its initial position as a static collectible. Take the audiolog by the couch before leaving; it leads to Langston and the Auction Buyer’s Apartment.",
+          "Outside Frontline Construction, the speaker and flyer can start the Side Story. Pursue that speaker when it flees. The apartment lead then directs the search toward the Atlantis coffee shop, where another speaker is on a table. The Museum of Curiosities is farther away in West Incursion: remove the Hiss growths feeding its door, enter, press the red button at the rear display and chase the last speaker."
+        ],
+        "table": {
+          "caption": "The Complete Set object route",
+          "columns": [
+            "Object",
+            "Area or landmark",
+            "What to do"
+          ],
+          "rows": [
+            [
+              "Speaker",
+              "Auction House, northern Downtown",
+              "Clear rooftop enemies, enter and contain the moving speaker"
+            ],
+            [
+              "Speaker",
+              "Frontline Construction, southwest Central",
+              "Inspect the flyer and pursue the outdoor speaker"
+            ],
+            [
+              "Speaker",
+              "Atlantis coffee shop, Central",
+              "Follow the Auction Buyer’s Apartment clue to the shop"
+            ],
+            [
+              "Speaker",
+              "Museum of Curiosities, southeast West Incursion Zone",
+              "Clear door Hiss Nodes, press the red button and capture it"
+            ],
+            [
+              "Subwoofer",
+              "SR room near Executive Research, Oldest House",
+              "Use Langston’s SR keycard; clear Hiss and contain it"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "subwoofer-and-final-objective",
+        "heading": "Subwoofer and Final Objective",
+        "intro": "The subwoofer is in the Oldest House, not another Central storefront. Speak with Langston at the Central Field Office to receive access to the SR room near Executive Research.",
+        "paragraphs": [
+          "Travel to the Oldest House and follow the route toward Executive Research. Look for the room marked SR near the security-check area. Use the keycard from Langston, interact with the subwoofer, defeat the arriving Hiss and contain the moving object once it pauses.",
+          "Return with the full set to the Auction House. Bring the components to the leather couch near the civilian; this is the staging point for the room-wide ritual. Four speakers without the subwoofer cannot complete it."
+        ]
+      },
+      {
+        "id": "how-to-finish-the-complete-set",
+        "heading": "How to Finish The Complete Set",
+        "intro": "Stage the four speakers and subwoofer at the Auction House couch, then place each object in the room. The subwoofer belongs by the couch; the speakers go on the table below the stairs, the opposite stage, the first-floor tarpaulin opposite the civilian, and the wooden bench behind that position.",
+        "paragraphs": [
+          "Remedy lists a known issue in which the final subwoofer interaction prompt can be absent. If the set is placed and the switch-off stage is complete but no prompt appears, preserve your progress and check the current Remedy Help Center notice. This is different from a missing collection item."
+        ],
+        "steps": [
+          {
+            "heading": "Check the full set.",
+            "description": "Bring all four contained speakers and the subwoofer from the Oldest House to the Auction House."
+          },
+          {
+            "heading": "Place the objects.",
+            "description": "Use the couch as the starting point, then fill the five marked positions around the room."
+          },
+          {
+            "heading": "Speak to the civilian.",
+            "description": "After positioning the set, return upstairs and talk to her to advance the ritual."
+          },
+          {
+            "heading": "Switch off the speakers.",
+            "description": "Move through the room and turn off each placed speaker, then return to the civilian."
+          },
+          {
+            "heading": "Resolve the subwoofer.",
+            "description": "Follow the final prompt and choose how to respond to its competing voices."
+          }
+        ]
+      },
+      {
+        "id": "commonly-missed-checks",
+        "heading": "Commonly Missed Checks",
+        "intro": "Three places are worth checking before you begin another lap of the map: the initial Frontline flyer, the Auction House audiolog, and the Central conversation with Langston.",
+        "paragraphs": [
+          "The quest is easy to confuse with other altered-item activities because Freeze Frame also sends you across zones. Camera icons and speaker markers serve different objectives. Clear a camera only when following the Freeze Frame trail; it will not fill a gap in The Complete Set. For a different collection route built around returning one item to an owner, use the dog toy guide."
+        ],
+        "bullets": [
+          "The flyer and nearby speaker establish the Side Story at Frontline Construction.",
+          "The couch and audiolog establish the Auction House as the ritual hub.",
+          "Langston supplies the subwoofer lead; the finale requires that component as well as the speakers."
+        ],
+        "links": [
+          {
+            "label": "Dog Toy Locations",
+            "slug": "dog-toy-locations",
+            "description": "A separate seven-zone return route."
+          },
+          {
+            "label": "Freeze Frame",
+            "slug": "freeze-frame",
+            "description": "Altered cameras and their approach puzzles."
+          }
+        ]
+      },
+      {
+        "id": "last-reviewed",
+        "heading": "Last Reviewed",
+        "intro": "September 26, 2026."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many objects are in The Complete Set?",
+        "answer": "Four speakers and one subwoofer are involved in the Side Story."
+      },
+      {
+        "question": "Where does the ritual happen?",
+        "answer": "At the leather couch in the Auction House in northern Downtown."
+      },
+      {
+        "question": "Where do I get the subwoofer lead?",
+        "answer": "Listen to the audiolog at the Auction House, then speak with Langston at the Central Field Office."
+      }
+    ],
+    "relatedSlugs": [
+      "dog-toy-locations",
+      "freeze-frame"
+    ],
+    "sourceNotes": [
+      "https://www.playstationtrophies.org/game/control-resonant/guide/all-speakers-subwoofer-locations-the-complete-set-side-quest-walkthrough",
+      "https://www.xboxachievements.com/game/control-resonant/guide/all-speakers-subwoofer-locations-the-complete-set-side-quest-walkthrough",
+      "https://www.powerpyx.com/control-resonant-trophy-guide-roadmap",
+      "https://thethumbwars.com/how-to-finish-the-complete-set-quest-in-control-resonant/",
+      "https://remedy.helpshift.com/hc/en/5-control-resonant/faq/314-resonance-disruption-known-issues-and-updates/"
+    ],
+    "lastReviewed": "2026-09-26"
+  },
+  {
+    "enabled": true,
+    "slug": "dog-toy-locations",
+    "pageType": "guide",
+    "navLabel": "Dog Toy Locations",
+    "title": "CONTROL Resonant Dog Toy Locations & Mysterious Dog",
+    "description": "Find Mysterious Dog and dragon toy locations in CONTROL Resonant, return each toy, and finish Every Dog Has Her Day with practical route tips.",
+    "keywords": [
+      "dog toy control resonant"
+    ],
+    "primaryKeyword": "dog toy control resonant",
+    "secondaryKeywords": [],
+    "searchIntent": "Practical help for Dog Toy Locations",
+    "priority": "P0",
+    "navVisible": true,
+    "wordCountTarget": 800,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "PLAYER GUIDE",
+      "heading": "CONTROL Resonant Dog Toy Locations",
+      "lead": "The Mysterious Dog appears in seven Manhattan zones. Each encounter asks you to locate a small dragon toy nearby and carry it back to the dog."
+    },
+    "sections": [
+      {
+        "id": "quick-answer",
+        "heading": "Quick Answer",
+        "intro": "Find the dog’s map icon in each zone, reach her bed, then search the nearby roof, alley or inverted surface for the dragon toy. Return the toy at all seven encounters and visit the Gap to finish the story.",
+        "paragraphs": [
+          "The toy is close to its dog in map distance but sometimes separated by height, lasers or gravity. Treat the return trip as part of the puzzle: before picking up the toy, look back at the dog and identify a safe path for carrying it.",
+          "The game calls this Side Story Every Dog Has Her Day. The dog icon becomes useful once you enter the relevant area. The purple or blue-green dragon plush is the object to retrieve; billboards and lighting often point toward the correct roof."
+        ]
+      },
+      {
+        "id": "dog-and-toy-locations-by-zone",
+        "heading": "Dog and Toy Locations by Zone",
+        "intro": "There is one encounter in each major zone. The table is a route reference; the short notes that follow explain the awkward return paths.",
+        "paragraphs": [
+          "These are regional encounters, not seven toys scattered around one apartment. Once a dog has accepted her toy, move to another zone and use its local map icon. Going back to the same bed cannot advance a different zone’s objective."
+        ],
+        "table": {
+          "caption": "Mysterious Dog route",
+          "columns": [
+            "Zone",
+            "Dog landmark",
+            "Toy landmark"
+          ],
+          "rows": [
+            [
+              "Downtown",
+              "Southwest elevated rooftop",
+              "Opposite rooftop near dog-food advertising"
+            ],
+            [
+              "Central",
+              "Rooftop east of the Field Office",
+              "Laser-filled alley to the north"
+            ],
+            [
+              "West Incursion Zone",
+              "Northwest of Parking Garage on altered gravity",
+              "Southern rooftop by dog-food billboard"
+            ],
+            [
+              "Evacuation Zone",
+              "Above rooftop northeast of Sinkhole",
+              "Roof below the dog’s inverted surface"
+            ],
+            [
+              "The Park",
+              "Far northeast of the zone",
+              "Higher roof reached by exterior elevator"
+            ],
+            [
+              "Underpass",
+              "Large structure north of Research Site",
+              "Ceiling route near the dog"
+            ],
+            [
+              "Unknown",
+              "Northwest island garden rooftop",
+              "Balcony beside BAR sign and dog billboard"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "step-by-step-route",
+        "heading": "Step-by-Step Route",
+        "intro": "Begin with Downtown if you are following the zones naturally, but the important rule is to solve each local dog-and-toy pair before leaving.",
+        "subsections": [
+          {
+            "heading": "Downtown and Central",
+            "paragraphs": [
+              "Downtown places the dog on an elevated southwest roof. From her position, inspect the opposite roof and the dog-food advertisement; the toy is near a stairwell door. Cross to it, pick it up and retrace the route. In Central, the dog is east of the Field Office. Look north into the narrow alley with laser barriers and take the plush from near the billboard at its far end. Move carefully through the beams on the way back."
+            ]
+          },
+          {
+            "heading": "West Incursion and Evacuation",
+            "paragraphs": [
+              "West Incursion bends the environment into a wall near the Parking Garage. The dog is northwest of that garage; the toy sits on an air-conditioning unit on a southern roof by dog advertising. Align your gravity route before picking it up. In the Evacuation Zone, the dog is above a roof northeast of the Sinkhole. Reach the lower roof and use the changed surface orientation to carry the toy back to her."
+            ]
+          },
+          {
+            "heading": "The Park, Underpass and Unknown",
+            "paragraphs": [
+              "In The Park, the dog is toward the northeast and the toy is on a higher roof accessed with an exterior elevator. Restore the lift’s power if it is inactive, then return the toy by the same route. The Underpass encounter puts the toy on a ceiling near a structure north of the Research Site. Use the raised side path to get onto that gravity plane, collect it, and return to the dog on her own plane. In Unknown, look for the dog on the northwest island; the toy sits on a balcony indicated by a BAR sign near a multi-dog billboard."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "what-happens-after-all-seven-returns",
+        "heading": "What Happens After All Seven Returns",
+        "intro": "After the seven local returns, head to the Gap. The Mysterious Dog appears there, which is the final visit associated with Every Dog Has Her Day and the Dog’s Best Friend trophy or achievement.",
+        "paragraphs": [
+          "A separate completion guide also records a Trusted Spanner Artifact as the Side Story reward. The dog’s arrival in the Gap is the clearest visual check that you have closed the seven-zone route. If the dog has not appeared, open your map and review which regional encounter still has an active icon.",
+          "This is a side-content route, so it can be paired with other zone-spanning activities without mixing their objectives. Speaker markers belong to The Complete Set, while camera icons belong to Freeze Frame. The dog toy itself belongs back at the bed for that zone."
+        ]
+      },
+      {
+        "id": "common-reasons-players-get-stuck",
+        "heading": "Common Reasons Players Get Stuck",
+        "intro": "The dog is easy to see while the toy is often hidden by geometry. Change your viewpoint rather than searching at street level only.",
+        "paragraphs": [
+          "The plush can look teal, blue-green or purple under different lighting. Identify it by shape and interaction prompt, not by trying to match one screenshot’s color. In some zones the toy is visible from the dog’s position if you pause and look outward before moving."
+        ],
+        "bullets": [
+          "Central: the toy is in the laser alley north of the rooftop, not on the dog’s roof.",
+          "The Park: the exterior elevator must be usable before the higher roof is practical.",
+          "Underpass: the toy is on an inverted surface; return to the dog’s plane after collecting it.",
+          "Unknown: the BAR sign points down toward the correct balcony."
+        ]
+      },
+      {
+        "id": "related-side-content",
+        "heading": "Related Side Content",
+        "intro": "If you enjoy the seven-zone scavenger pattern, The Complete Set is the altered speaker route. For a more discrete puzzle with a single room and a clear input state, use the laundromat solution.",
+        "links": [
+          {
+            "label": "The Complete Set speaker locations",
+            "slug": "the-complete-set",
+            "description": "Four speakers and a subwoofer."
+          },
+          {
+            "label": "Laundromat Puzzle solution",
+            "slug": "laundromat-puzzle",
+            "description": "The Central washing-machine room."
+          }
+        ]
+      },
+      {
+        "id": "last-reviewed",
+        "heading": "Last Reviewed",
+        "intro": "September 26, 2026."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many Mysterious Dog encounters are there?",
+        "answer": "Seven, one in each major Manhattan zone."
+      },
+      {
+        "question": "Where is the Central dog toy?",
+        "answer": "In the laser-filled alley north of the dog’s rooftop, near the dog-food billboard."
+      },
+      {
+        "question": "What is the final step?",
+        "answer": "After returning all seven toys, visit the dog in the Gap."
+      }
+    ],
+    "relatedSlugs": [
+      "the-complete-set",
+      "laundromat-puzzle"
+    ],
+    "sourceNotes": [
+      "https://www.playstationtrophies.org/game/control-resonant/guide/all-mysterious-dog-and-toy-locations-dogs-best-friend-trophy",
+      "https://games.gg/control-resonant/guides/control-resonant-all-mysterious-dog-locations-and-dragon-toy-solutions/",
+      "https://www.powerpyx.com/control-resonant-trophy-guide-roadmap"
+    ],
+    "lastReviewed": "2026-09-26"
+  },
+  {
+    "enabled": true,
+    "slug": "unsupervised-science",
+    "pageType": "guide",
+    "navLabel": "Unsupervised Science",
+    "title": "CONTROL Resonant Unsupervised Science Walkthrough",
+    "description": "Follow Unsupervised Science in CONTROL Resonant: locate six Testing Facilities, solve each experiment, and complete the final Threshold route.",
+    "keywords": [
+      "control resonant unsupervised science"
+    ],
+    "primaryKeyword": "control resonant unsupervised science",
+    "secondaryKeywords": [],
+    "searchIntent": "Practical help for Unsupervised Science",
+    "priority": "P0",
+    "navVisible": true,
+    "wordCountTarget": 800,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "PLAYER GUIDE",
+      "heading": "CONTROL Resonant Unsupervised Science Walkthrough",
+      "lead": "Unsupervised Science is a six-facility investigation. Surface map markers point toward underground labs, while the actual entrances require a search around nearby landmarks."
+    },
+    "sections": [
+      {
+        "id": "quick-walkthrough",
+        "heading": "Quick Walkthrough",
+        "intro": "Start at the construction-site tunnel northeast of the vendor in eastern Central, follow it into the Testing Facility, and listen to the recording. Work through six labs, then finish the Threshold inside the Unknown facility.",
+        "paragraphs": [
+          "The six labs are in Downtown, Central, Evacuation Zone, West Incursion Zone, The Park and Unknown. Three use state-changing soda dispensers; the other three use charged Power Cores. The map marks the laboratory location rather than the doorway, which explains why standing directly on a marker may leave you above an inaccessible room.",
+          "Finish each experiment at its own terminal before moving to the next marker. The concluding sequence appears after the six facilities are shut down, so finding the entrance to the Unknown lab alone does not complete the Side Story."
+        ]
+      },
+      {
+        "id": "how-to-start-unsupervised-science",
+        "heading": "How to Start Unsupervised Science",
+        "intro": "In eastern Central, search the construction site northeast of the vendor. The tunnel goes down into a Testing Facility; the recording there starts the Side Story. A coordinates file at a facility also adds the locations to your map.",
+        "paragraphs": [
+          "Once markers appear, use them as an area guide. Look around each marked block for stairs, an unfinished building, a tunnel or a sewer entrance. Searching for a hatch exactly under the pin is the common navigation error.",
+          "The practical distinction is between discovering a facility and completing its experiment. Enter the room, read its terminal or whiteboard, perform the local puzzle, and trigger shutdown. Only then move on. You can take the labs in an order that suits your unlocked zones."
+        ]
+      },
+      {
+        "id": "testing-facilities-and-first-objectives",
+        "heading": "Testing Facilities and First Objectives",
+        "intro": "Use this table to identify the entrance area and puzzle family before spending time on the wrong side of the street.",
+        "paragraphs": [
+          "Downtown’s Testing Facility Reade is under construction and may contain Hiss enemies. Clear the approach and search within the building for the way down. The Evacuation Zone entrance is more conveniently anchored to the Survivalist’s Bunker fast travel point. In The Park, two sewer approaches can lead toward the same facility."
+        ],
+        "table": {
+          "caption": "Facility route",
+          "columns": [
+            "Zone",
+            "Entrance clue",
+            "Experiment"
+          ],
+          "rows": [
+            [
+              "Downtown",
+              "Testing Facility Reade, east side of zone",
+              "Soda Dispenser"
+            ],
+            [
+              "Central",
+              "Construction site east of Patterned Factory",
+              "Power Core transfer"
+            ],
+            [
+              "Evacuation Zone",
+              "Beside Survivalist’s Bunker fast travel",
+              "Soda Dispenser"
+            ],
+            [
+              "West Incursion Zone",
+              "South of House of Mirrors",
+              "Soda Dispenser"
+            ],
+            [
+              "The Park",
+              "Northeast sewer approaches",
+              "Power Core transfer"
+            ],
+            [
+              "Unknown",
+              "Middle-west of fast travel point",
+              "Power Core transfer"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "step-by-step-experiment-walkthrough",
+        "heading": "Step-by-Step Experiment Walkthrough",
+        "intro": "The experiments repeat a mechanic with different room geometry. Learn the rule once, then apply it to the later locations rather than copying a route through an unrelated chamber.",
+        "subsections": [
+          {
+            "heading": "Soda Dispenser rooms: Downtown, Evacuation and West Incursion",
+            "paragraphs": [
+              "Read the terminal and whiteboard first. Objects change state when they cross the yellow lines. The target is a Soda Dispenser state in the center box. Carry an item through a line, observe its new state, and use the position of the line to make another change as needed. You can cross a line yourself without carrying the object to alter your position for the next pass.",
+              "In Downtown, the whiteboard makes the state-change rule visible. Evacuation uses the same logic near the Survivalist’s Bunker entrance, and West Incursion repeats it south of the House of Mirrors. If an item changes past the intended form, keep the line and box in view and cycle it again deliberately."
+            ]
+          },
+          {
+            "heading": "Power Core rooms: Central, The Park and Unknown",
+            "paragraphs": [
+              "The Central facility starts a timed shutdown using four Power Cores, two initially charged. Watch the uncharged cores for a blinking red cue, then move a charge from a live core to the one requesting it. Keep the transfers going through the sixty-second sequence. The Park uses the same basic timing and warning signal.",
+              "Unknown adds a fifth core, so scan the whole room rather than assuming the next target is beside the last one. Move to a position where all core indicators are visible before starting; the time pressure is easier when you know where each target is. If the sequence stops, restart from the terminal and respond to the blinking cue rather than transferring power at random."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "final-threshold-in-the-unknown",
+        "heading": "Final Threshold in the Unknown",
+        "intro": "After all six experiments, return to the Unknown facility. Its Threshold opens near the final lab reward area. The route is deliberately confusing, so use the names on the floor as fixed references.",
+        "paragraphs": [
+          "Going left or straight from the opening produces transformations that loop the route rather than advancing it. If you end up as a chair or telephone booth, return to the named junction and take the right passage. The last interaction with the body, not the core transfer alone, closes the Side Story."
+        ],
+        "steps": [
+          {
+            "heading": "Choose the right passage first.",
+            "description": "At the opening, Janson is marked left and Puchalski ahead. Take the right route instead."
+          },
+          {
+            "heading": "Break the board.",
+            "description": "Follow the right route to the board at the end and hit it."
+          },
+          {
+            "heading": "Move the charge.",
+            "description": "Take the left path to collect power, continue ahead, then take the left branch at the split to activate the dead core."
+          },
+          {
+            "heading": "Complete the investigation.",
+            "description": "Collect what is in the opened room, return to the split, go straight and interact with the body."
+          }
+        ]
+      },
+      {
+        "id": "puzzle-and-navigation-roadblocks",
+        "heading": "Puzzle and Navigation Roadblocks",
+        "intro": "A surface marker, a wrong object state, and a missed blinking core are different problems. Diagnose which stage you are on before retracing an entire zone.",
+        "paragraphs": [
+          "Some facilities also reward upgrade components or accessories. Take the room reward after shutdown, but do not confuse collecting a reward with activating the experiment’s completion state. The quest log is a better record of cleared sites than an empty container."
+        ],
+        "bullets": [
+          "Above a map pin: search for an underground entrance near the local landmark.",
+          "Soda room not accepting an object: inspect its current state after crossing a yellow line.",
+          "Timed room failing: watch the blinking red core and transfer charge before the window closes.",
+          "Unknown finale looping: take the right passage at the named fork."
+        ]
+      },
+      {
+        "id": "what-to-do-next",
+        "heading": "What to Do Next",
+        "intro": "The last body interaction finishes Unsupervised Science. If another Central Side Story is active, Crossing the Threshold follows a separate evidence trail; Panopticon Service Request is a containment puzzle near Langston.",
+        "links": [
+          {
+            "label": "Crossing the Threshold walkthrough",
+            "slug": "crossing-the-threshold",
+            "description": "The Field Hospital and Dig Site investigation."
+          },
+          {
+            "label": "Panopticon Service Request",
+            "slug": "panopticon-service-request",
+            "description": "Terminal repair and radio containment."
+          }
+        ]
+      },
+      {
+        "id": "last-reviewed",
+        "heading": "Last Reviewed",
+        "intro": "September 26, 2026."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many Testing Facilities are there?",
+        "answer": "Six, spread across Downtown, Central, Evacuation Zone, West Incursion Zone, The Park and Unknown."
+      },
+      {
+        "question": "Why is the map marker above a closed floor?",
+        "answer": "The marked laboratory is underground; search nearby buildings or tunnels for its entrance."
+      },
+      {
+        "question": "What ends Unsupervised Science?",
+        "answer": "Complete all six experiments, traverse the Unknown Threshold and interact with the body at the end."
+      }
+    ],
+    "relatedSlugs": [
+      "crossing-the-threshold",
+      "panopticon-service-request"
+    ],
+    "sourceNotes": [
+      "https://games.gg/control-resonant/guides/control-resonant-all-experiment-locations/",
+      "https://www.playstationtrophies.org/game/control-resonant/guide/all-main-missions-side-quests-locations",
+      "https://www.powerpyx.com/control-resonant-trophy-guide-roadmap"
+    ],
+    "lastReviewed": "2026-09-26"
+  },
+  {
+    "enabled": true,
+    "slug": "freeze-frame",
+    "pageType": "guide",
+    "navLabel": "Freeze Frame",
+    "title": "CONTROL Resonant Freeze Frame: All Camera Locations",
+    "description": "Find all 14 Freeze Frame camera locations in CONTROL Resonant, approach each unseen, and finish the Side Story with route and reset tips.",
+    "keywords": [
+      "freeze frame control resonant"
+    ],
+    "primaryKeyword": "freeze frame control resonant",
+    "secondaryKeywords": [],
+    "searchIntent": "Practical help for Freeze Frame",
+    "priority": "P0",
+    "navVisible": true,
+    "wordCountTarget": 800,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "PLAYER GUIDE",
+      "heading": "CONTROL Resonant Freeze Frame Guide",
+      "lead": "Freeze Frame asks Dylan to contain altered cameras. A camera freezes him when it sees him, so the solution is a route behind its field of view rather than a direct sprint."
+    },
+    "sections": [
+      {
+        "id": "quick-answer",
+        "heading": "Quick Answer",
+        "intro": "There are fourteen cameras, two in each of the seven zones. Get behind each one unseen and interact with it. A camera that spots you disappears temporarily, then returns after you move away until you hear its click.",
+        "paragraphs": [
+          "When a camera drops an Instant Photo, pick it up. Photos and camera icons help track the next search area. The Side Story begins when one of the cameras snaps Dylan; a known early trigger is near Zoe at the Watchtower, approached through the basement.",
+          "Do not read the camera’s disappearance as successful containment. If it froze Dylan, reposition, let it return, and find the alternate access path. The real completion action is an interaction from behind."
+        ]
+      },
+      {
+        "id": "how-freeze-frame-starts",
+        "heading": "How Freeze Frame Starts",
+        "intro": "You can trigger the story by being photographed by a rogue camera. At the Watchtower, the area to the right of Zoe provides an early example; approach through its lower level.",
+        "paragraphs": [
+          "The camera mechanic is consistent across the map even though each room or street offers a different route. Its forward cone is the hazard. Walls, rooftops, side doors, gravity routes and power-controlled openings let you move around that cone.",
+          "For a full cleanup, unlock traversal abilities from Jesse Sightings and keep Ground Slam available. Some late camera routes rely on movement tools or breaking an ability barrier. The camera list remains available after the main story, so revisiting a hard location later is practical."
+        ]
+      },
+      {
+        "id": "camera-location-checklist",
+        "heading": "Camera Location Checklist",
+        "intro": "Each of the seven zones holds two cameras. The landmarks below identify all fourteen search areas; once there, inspect each lens direction and find a rear approach.",
+        "paragraphs": [
+          "Instant Photos for a zone help identify the camera scenes: Downtown’s are near the Oldest House entrance whiteboards; Central’s are in the FBC Field Office wardrobe room; Evacuation’s are in a raised portable FBC office; West Incursion’s are at the House of Mirrors base; The Park’s are in the FBC base; Underpass photos are at the Spire; and Unknown’s are at the Patterned Field Office map table.",
+          "The Underpass camera east of the vendor can be reached by using the bubble below the edge, clearing enemies and a Hiss barrier, and dropping through the opening. The other Underpass camera is in a tunnel south of Tubes Island; an office and a drop route let you approach it from behind.",
+          "In Unknown, one camera is at the western island laundromat. A rear garage route lets you approach after it respawns. The second overlooks a Resource Crate in the northern Mold area; enter its warehouse, clear enemies and reach its rear side."
+        ],
+        "table": {
+          "caption": "All fourteen altered camera landmarks",
+          "columns": [
+            "Zone",
+            "Camera A",
+            "Camera B"
+          ],
+          "rows": [
+            [
+              "Downtown",
+              "Upside-down building, east Dense Patterning",
+              "Portable FBC office with glass wall and charged Power Core"
+            ],
+            [
+              "Central",
+              "Watchtower below Zoe’s office",
+              "Warehouse rooftop, facing out of the doors"
+            ],
+            [
+              "West Incursion Zone",
+              "North gravity-anomaly wall",
+              "Window-cleaning platform near Museum of Curiosities"
+            ],
+            [
+              "Evacuation Zone",
+              "Rooftop south of Sinkhole, small power-core structure",
+              "Apartment roof south of Railyard Street Station, by Mold wall"
+            ],
+            [
+              "The Park",
+              "Window-cleaning platform outside south Sewer entrance",
+              "Inside Nomad Avenue Station, right of stairs"
+            ],
+            [
+              "Underpass",
+              "Island east of Underpass vendor",
+              "Eastern side of island south of Tubes Island"
+            ],
+            [
+              "Unknown",
+              "Mold-covered construction building, looking through fungus",
+              "Wear’Em & Wash’Em laundromat, street-level entrance"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "step-by-step-containment-method",
+        "heading": "Step-by-Step Containment Method",
+        "intro": "Use the same short decision process at every camera, then adapt the route to the zone’s geometry.",
+        "paragraphs": [
+          "A useful trick is to solve the traversal route while the camera is absent after a failed attempt. You can inspect doors and ledges without being frozen. Once you understand the path, move away for the click, then retrace that path on the successful attempt."
+        ],
+        "steps": [
+          {
+            "heading": "Find the view direction.",
+            "description": "Stop outside its cone and identify which wall or rooftop reaches the space behind it."
+          },
+          {
+            "heading": "Trace a rear route.",
+            "description": "Check side doors, stairs, rooftop gaps, gravity surfaces and power or ability barriers."
+          },
+          {
+            "heading": "Reset if photographed.",
+            "description": "Move away until the camera clicks back into place; do not continue to the empty pedestal."
+          },
+          {
+            "heading": "Approach from behind.",
+            "description": "Retrace the safe route and interact with the camera before crossing its front view."
+          },
+          {
+            "heading": "Collect its clue.",
+            "description": "Pick up any Instant Photo and check the map before moving to the next zone."
+          }
+        ]
+      },
+      {
+        "id": "why-a-camera-keeps-disappearing",
+        "heading": "Why a Camera Keeps Disappearing",
+        "intro": "Being seen triggers the camera’s defensive effect; it is not a pickup animation. Move away within the area until you hear the respawn cue, then return by the rear route.",
+        "paragraphs": [
+          "Do not run straight at the camera as soon as it respawns. The same sight line will freeze Dylan again. Take note of where its body points, and approach from cover or a different elevation. If a rear door is locked, look for its power source or another entrance on the side of the building.",
+          "Some camera positions are gated by traversal skills. If you cannot reach a roof or break the barrier above it, continue the relevant Jesse Sightings or Resonant progression and come back. The list is not missable."
+        ]
+      },
+      {
+        "id": "finale-and-completion-check",
+        "heading": "Finale and Completion Check",
+        "intro": "After containing all fourteen cameras, the final activity takes you to the FBC encampment near the Oldest House for another sequence of unseen camera approaches.",
+        "paragraphs": [
+          "Treat the finale as an application of the same rule: read each field of view, use nearby cover and approach from an angle outside the lens. The quest completes after this closing sequence, not merely when the collection counter reaches fourteen.",
+          "Freeze Frame is one of the altered-item Side Stories counted toward the Panopticon Intern trophy or achievement. It is separate from The Complete Set, which follows altered speakers. Both can be tracked during a zone sweep, but their icons, interaction rules and finales differ."
+        ],
+        "links": [
+          {
+            "label": "The Complete Set speaker locations",
+            "slug": "the-complete-set",
+            "description": "A separate altered-item collection route."
+          },
+          {
+            "label": "Laundromat Puzzle solution",
+            "slug": "laundromat-puzzle",
+            "description": "A fixed room puzzle in Central."
+          }
+        ]
+      },
+      {
+        "id": "last-reviewed",
+        "heading": "Last Reviewed",
+        "intro": "September 26, 2026."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many Freeze Frame cameras are there?",
+        "answer": "Fourteen: two in each of seven Manhattan zones."
+      },
+      {
+        "question": "What if a camera photographs me?",
+        "answer": "Move away until it respawns with a click, then approach from behind by another route."
+      },
+      {
+        "question": "Can I return after the story?",
+        "answer": "Yes. The camera locations remain available in free roam."
+      }
+    ],
+    "relatedSlugs": [
+      "the-complete-set",
+      "laundromat-puzzle"
+    ],
+    "sourceNotes": [
+      "https://www.powerpyx.com/control-resonant-all-camera-locations-freeze-frame-walkthrough/",
+      "https://www.playstationtrophies.org/game/control-resonant/guide/all-camera-locations-freeze-frame-side-quest",
+      "https://www.powerpyx.com/control-resonant-trophy-guide-roadmap",
+      "https://www.gamesradar.com/games/action-rpg/control-resonant-instant-photos-camera-freeze-frame/"
+    ],
+    "lastReviewed": "2026-09-26"
+  },
+  {
+    "enabled": true,
+    "slug": "combo-finishers",
+    "pageType": "guide",
+    "navLabel": "Combo Finishers",
+    "title": "CONTROL Resonant Combo Finishers Guide",
+    "description": "Learn how CONTROL Resonant Combo Finishers unlock and trigger, then choose moves for Falter pressure, crowd control, and safer combat strings.",
+    "keywords": [
+      "control resonant combo finishers"
+    ],
+    "primaryKeyword": "control resonant combo finishers",
+    "secondaryKeywords": [],
+    "searchIntent": "Practical help for Combo Finishers",
+    "priority": "P0",
+    "navVisible": true,
+    "wordCountTarget": 800,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "PLAYER GUIDE",
+      "heading": "CONTROL Resonant Combo Finishers",
+      "lead": "Combo Finishers add an extra attack to the end of Dylan’s primary Aberrant weapon string. Equip one in the loadout, then complete the normal chain to use it."
+    },
+    "sections": [
+      {
+        "id": "how-combo-finishers-work",
+        "heading": "How Combo Finishers Work",
+        "intro": "A Combo Finisher follows the standard three-hit primary weapon sequence. Its effect comes from the equipped finisher, rather than the shape of the primary form you began with.",
+        "paragraphs": [
+          "There are six finishers to unlock. Each costs a Living Shard to purchase and can be upgraded later in the Gap. Only one can be equipped at a time, so the useful question is which effect fits the fight in front of you: pressure on one tough enemy, breathing room against a group, or an effect that persists after the strike.",
+          "The Aberrant also has primary and secondary forms. Keep those separate from the finisher slot when editing the loadout. Buying a move does not necessarily equip it; open the Loadout menu and place the chosen finisher in the Combo slot."
+        ]
+      },
+      {
+        "id": "how-to-unlock-and-trigger-a-finisher",
+        "heading": "How to Unlock and Trigger a Finisher",
+        "intro": "Build enough Aberrant Strength to access finishers, purchase the one you want with a Living Shard at the Gap’s upgrade structure, and equip it in the Combo loadout.",
+        "paragraphs": [
+          "On a PlayStation controller the primary attack is Square; on Xbox it is X. The finisher comes after the primary chain, not from pressing a separate special-ability button in isolation. If nothing appears, check that the Combo slot is filled and that your attacks completed without an interruption.",
+          "A source guide cites 15 Aberrant Strength as the initial unlock condition. Inspect the upgrade structure in your current save for the displayed requirement, since the menu itself is the final authority for a patch or changed progression state."
+        ],
+        "steps": [
+          {
+            "heading": "Open the upgrade area.",
+            "description": "Travel to the Gap and use the large stone structure for Aberrant forms and Combo Finishers."
+          },
+          {
+            "heading": "Purchase a finisher.",
+            "description": "Choose a move whose effect fits your preferred primary attacks and spend the required Living Shard."
+          },
+          {
+            "heading": "Equip it.",
+            "description": "Open Loadout and assign the purchased move to the Combo Finisher slot."
+          },
+          {
+            "heading": "Complete the attack string.",
+            "description": "Use the normal primary attack inputs, then continue the input at the end to release the added move."
+          }
+        ]
+      },
+      {
+        "id": "choose-by-combat-situation",
+        "heading": "Choose by Combat Situation",
+        "intro": "A fixed tier list hides the tradeoff between single-target pressure and crowd control. Start with what problem is killing your attempts.",
+        "paragraphs": [
+          "Concussive Beatdown is useful when you have a clean opening against one durable opponent. Its repeated strikes generate Falter, helping set up an execution. Wide Edge solves the opposite problem: enemies crowding Dylan while he is trying to finish a string. The spinning sweep buys distance before another attack or dodge.",
+          "Split Pivot leaves a blade effect for a short interval. Its value is in positioning and follow-up, not simply the damage shown on the first contact. If the target moves out of the active area, the effect matters less; use it where an enemy is committed or where several opponents must cross the same space."
+        ],
+        "table": {
+          "caption": "Finisher use cases",
+          "columns": [
+            "Situation",
+            "Example finisher",
+            "Reason"
+          ],
+          "rows": [
+            [
+              "Tough single target",
+              "Concussive Beatdown",
+              "Rapid hits build Falter and allow pressure on one enemy"
+            ],
+            [
+              "Several nearby enemies",
+              "Wide Edge",
+              "A broad sweep creates space and knocks targets back"
+            ],
+            [
+              "Area pressure over time",
+              "Split Pivot",
+              "Spinning blade effect persists briefly after use"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "practical-combat-combos",
+        "heading": "Practical Combat Combos",
+        "intro": "The safest sequence is one you can interrupt when danger appears. Build the opening, finish the primary chain, and be ready to dodge after the added move.",
+        "subsections": [
+          {
+            "heading": "Against a durable enemy",
+            "paragraphs": [
+              "Use mobility to create a clean angle, land primary attacks, then trigger Concussive Beatdown for Falter. Read the enemy’s recovery before committing to another string. A finisher gives pressure but does not make Dylan immune to an incoming heavy attack."
+            ]
+          },
+          {
+            "heading": "Against a group",
+            "paragraphs": [
+              "Move toward the edge of the pack rather than into its center. Use the primary chain on a reachable target and end with Wide Edge to push back nearby enemies. That creates a short window to reposition or spend a combat ability."
+            ]
+          },
+          {
+            "heading": "With an area effect",
+            "paragraphs": [
+              "Place Split Pivot where the enemy must stand or travel, then use the space it creates to begin another attack from a safer position. The move is less useful if you launch it into empty ground or against a target already leaving the area."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mistakes-that-break-your-combo",
+        "heading": "Mistakes That Break Your Combo",
+        "intro": "Most failed finisher attempts are loadout or timing problems, not a need to buy another move.",
+        "paragraphs": [
+          "If your input triggers only the ordinary final hit, verify the equipped slot and try against a safe target in the Gap. Testing outside a hectic boss fight makes it easier to see the attack animation and learn the input rhythm.",
+          "A Living Shard is a meaningful early purchase. Compare the descriptions at the Gap and choose a situational tool you will actually use. Upgrade branches can change effects, so the base move and a fully upgraded version should not be treated as identical."
+        ],
+        "bullets": [
+          "Confirm the finisher was assigned after purchase.",
+          "Use primary attacks to reach the end of the chain.",
+          "Do not pause so long that the attack string resets.",
+          "Avoid committing to the final attack while an enemy projectile is already arriving."
+        ]
+      },
+      {
+        "id": "tough-enemy-tips",
+        "heading": "Tough Enemy Tips",
+        "intro": "Against bosses and minibosses, Falter pressure is often more useful than a dramatic-looking wide sweep. Concussive Beatdown is a strong example when the target stays in range long enough for the string.",
+        "paragraphs": [
+          "Do not force the full sequence during every opening. Dodge, recover position, and start again when the enemy leaves enough time for the three primary hits plus finisher. If a target repeatedly interrupts you, use a shorter attack window and save the finisher for a stagger or a predictable recovery.",
+          "The combat loop combines melee, the shifting Aberrant and abilities. A finisher is one part of that loop. After using it, check your Power and the enemy’s state before choosing another ability or retreating."
+        ]
+      },
+      {
+        "id": "related-guides",
+        "heading": "Related Guides",
+        "intro": "For a side activity where combat and movement can interrupt a route, Unsupervised Science has facility approaches and enemy-clearing moments. Crossing the Threshold includes a warehouse encounter before its final conversation.",
+        "links": [
+          {
+            "label": "Unsupervised Science walkthrough",
+            "slug": "unsupervised-science",
+            "description": "Testing facilities and experiment routes."
+          },
+          {
+            "label": "Crossing the Threshold walkthrough",
+            "slug": "crossing-the-threshold",
+            "description": "The warehouse encounter and investigation."
+          }
+        ]
+      },
+      {
+        "id": "last-reviewed",
+        "heading": "Last Reviewed",
+        "intro": "September 26, 2026."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do I use a Combo Finisher?",
+        "answer": "Equip one in the Combo slot and continue the primary attack input after the standard three-hit string."
+      },
+      {
+        "question": "Can I equip more than one?",
+        "answer": "Only one Combo Finisher can be active in the loadout at a time."
+      },
+      {
+        "question": "Which one should I buy first?",
+        "answer": "Choose by need: Concussive Beatdown for a tough single target or Wide Edge when groups keep surrounding you."
+      }
+    ],
+    "relatedSlugs": [
+      "unsupervised-science",
+      "crossing-the-threshold"
+    ],
+    "sourceNotes": [
+      "https://www.gamesradar.com/games/action-rpg/control-resonant-combo-finishers/",
+      "https://beebom.com/how-to-perform-finishers-in-control-resonant/",
+      "https://store.steampowered.com/app/3669870/CONTROL_Resonant/"
+    ],
+    "lastReviewed": "2026-09-26"
+  },
+  {
+    "enabled": true,
+    "slug": "crossing-the-threshold",
+    "pageType": "guide",
+    "navLabel": "Crossing the Threshold",
+    "title": "CONTROL Resonant Crossing the Threshold Walkthrough",
+    "description": "Complete Crossing the Threshold in CONTROL Resonant by following the Central evidence trail, finding Wilson, and resolving the AVP-3 choice.",
+    "keywords": [
+      "crossing the threshold control resonant"
+    ],
+    "primaryKeyword": "crossing the threshold control resonant",
+    "secondaryKeywords": [],
+    "searchIntent": "Practical help for Crossing the Threshold",
+    "priority": "P0",
+    "navVisible": true,
+    "wordCountTarget": 800,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "PLAYER GUIDE",
+      "heading": "CONTROL Resonant Crossing the Threshold Walkthrough",
+      "lead": "Crossing the Threshold is a Central investigation that starts with a dead FBC researcher and ends with a choice about AVP-3. Follow the evidence before going to Wilson."
+    },
+    "sections": [
+      {
+        "id": "quick-walkthrough",
+        "heading": "Quick Walkthrough",
+        "intro": "At the Central Field Base, report the body in the Field Hospital, investigate the Dig Site, collect Wilson’s ID and the recording above it, use both Security Station computers, open the hospital locker, then clear the Warehouse and speak to Wilson.",
+        "paragraphs": [
+          "The most common delay is leaving the Security Station after using only one computer. The first provides the locker code; the second contains surveillance footage. Both are relevant before you return to the hospital.",
+          "At the final decision, believing Wilson and offering to carry AVP-3 back to the Threshold yourself is the route associated with the recorded outfit and artifact recipe rewards. Other dialogue paths complete the story differently."
+        ]
+      },
+      {
+        "id": "how-to-start-crossing-the-threshold",
+        "heading": "How to Start Crossing the Threshold",
+        "intro": "Reach the FBC Field Base in Central with Level 1 clearance. Enter the Field Hospital, find the dead researcher and report the scene to Zoe by radio.",
+        "paragraphs": [
+          "The loading-dock area has another relevant clue: a blinking surveillance camera. Examine it and report it as part of the investigation. If your objective list seems shorter than expected later, return and check this camera before searching the entire field base.",
+          "This is an evidence trail, so items and recordings matter as much as reaching a marker. Interact with each scene and wait for the objective update before leaving. The route spans nearby facilities that are easy to revisit, but collecting each lead on the first pass avoids unnecessary loops."
+        ]
+      },
+      {
+        "id": "objective-by-objective-route",
+        "heading": "Objective-by-Objective Route",
+        "intro": "Use the order below as a practical path through Central. The key is to finish each investigation stop before traveling to the next one.",
+        "subsections": [
+          {
+            "heading": "Dig Site: body, ID and recording",
+            "paragraphs": [
+              "At the Dig Site, report the body and pick up Wilson’s ID card beside it. Then climb to the elevated container above and use the ID to open it. Take the Threshold Site Recording. The recording links the expedition to the Field Hospital and gives context for the next evidence stop. Missing the ID is the main reason this container seems inaccessible."
+            ]
+          },
+          {
+            "heading": "Field Hospital: locked locker",
+            "paragraphs": [
+              "Investigate the hospital body if you have not already, then inspect the locked locker. Dylan needs a code, so the next destination is the Security Station rather than another search inside the hospital. Leave the locker in place until you obtain the code from the station."
+            ]
+          },
+          {
+            "heading": "Security Station: use both computers",
+            "paragraphs": [
+              "The station is below the fast travel point. One terminal shows the locker code after you cycle through its screens. A second terminal to the right contains footage from the loading docks. Use both, then go back to the Field Hospital and open the locker."
+            ]
+          },
+          {
+            "heading": "Warehouse: find Wilson",
+            "paragraphs": [
+              "Travel to the Warehouse and clear the enemies inside. The rear room contains Wilson. Speak to him after securing the area; the conversation explains AVP-3 and leads to the branching choice."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "evidence-checklist",
+        "heading": "Evidence Checklist",
+        "intro": "If Wilson or the next objective does not appear, compare your log with this list before assuming the quest is broken.",
+        "paragraphs": [
+          "A marker can lead you to the correct building without telling you which of two terminals is still unused. Read the objective wording: code, footage and Wilson are separate tasks. If one remains open, revisit the matching row above."
+        ],
+        "table": {
+          "caption": "Central evidence trail",
+          "columns": [
+            "Stop",
+            "Required interaction",
+            "Reason"
+          ],
+          "rows": [
+            [
+              "Field Hospital",
+              "Report the body",
+              "Starts the investigation"
+            ],
+            [
+              "Loading Docks",
+              "Inspect blinking camera",
+              "Adds surveillance lead"
+            ],
+            [
+              "Dig Site",
+              "Report body and take Wilson ID",
+              "Unlocks elevated container"
+            ],
+            [
+              "Elevated container",
+              "Take Threshold Site Recording",
+              "Connects the expedition route"
+            ],
+            [
+              "Security Station",
+              "Use code computer and footage computer",
+              "Resolves two separate leads"
+            ],
+            [
+              "Field Hospital return",
+              "Open locker with recovered code",
+              "Completes hospital evidence"
+            ],
+            [
+              "Warehouse",
+              "Clear enemies and speak to Wilson",
+              "Opens AVP-3 decision"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "avp-3-choice-and-ending",
+        "heading": "AVP-3 Choice and Ending",
+        "intro": "Wilson asks Dylan to decide how to handle AVP-3. The choice to believe him and personally carry the entity back to the Dig Site Threshold is the reward-bearing route reported in the walkthroughs.",
+        "paragraphs": [
+          "Choose the sympathetic dialogue, then explicitly choose to take AVP-3 yourself. Merely believing Wilson and then selecting containment with him is a different branch. The recorded reward path gives the Sensory Restraint Hood outfit and Untapped Practice Knot artifact recipe.",
+          "With AVP-3 in hand, reach the Dig Site’s yellow-tinted center and complete the transfer. A quick way back is to climb onto the Warehouse roof, cross toward the marker and drop into the Threshold area rather than trying to cut through walls at ground level.",
+          "The alternative choices still resolve the Side Story, but they do not follow the same reward outcome. If you care about that outcome, make the second choice carefully before leaving the Warehouse."
+        ]
+      },
+      {
+        "id": "navigation-and-combat-roadblocks",
+        "heading": "Navigation and Combat Roadblocks",
+        "intro": "The combat in the Warehouse is a gate before the conversation, not the central puzzle. Clear it, then check the door at the back. Earlier confusion usually comes from missing evidence, not enemy difficulty.",
+        "paragraphs": [
+          "If you are alternating Central Side Stories, avoid mixing this investigation with Langston’s Panopticon Service Request. That one also begins near the Field Office but involves a security terminal and an Altered Radio. Crossing the Threshold follows bodies, recordings and Wilson."
+        ],
+        "bullets": [
+          "Container locked at Dig Site: collect Wilson’s ID beside the body.",
+          "Locker locked at Field Hospital: use the Security Station code terminal.",
+          "Investigation incomplete: inspect the second Security Station computer for footage.",
+          "Return route blocked: use the Warehouse roof toward the Dig Site marker."
+        ]
+      },
+      {
+        "id": "related-central-guides",
+        "heading": "Related Central Guides",
+        "intro": "Unsupervised Science starts at an eastern Central construction site and later sends Dylan across multiple labs. Panopticon Service Request is another Field Office activity with a self-contained containment puzzle.",
+        "links": [
+          {
+            "label": "Unsupervised Science walkthrough",
+            "slug": "unsupervised-science",
+            "description": "Six Testing Facilities."
+          },
+          {
+            "label": "Panopticon Service Request",
+            "slug": "panopticon-service-request",
+            "description": "Langston’s radio containment task."
+          }
+        ]
+      },
+      {
+        "id": "last-reviewed",
+        "heading": "Last Reviewed",
+        "intro": "September 26, 2026."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Where is Wilson?",
+        "answer": "In the rear room of the Warehouse after the enemies have been cleared."
+      },
+      {
+        "question": "Where do I find the locker code?",
+        "answer": "Use the first computer in the Security Station below the fast travel point; use the second for footage."
+      },
+      {
+        "question": "Which AVP-3 choice gives the reported rewards?",
+        "answer": "Believe Wilson and choose to carry AVP-3 back to the Dig Site yourself."
+      }
+    ],
+    "relatedSlugs": [
+      "unsupervised-science",
+      "panopticon-service-request"
+    ],
+    "sourceNotes": [
+      "https://games.gg/control-resonant/guides/control-resonant-how-to-complete-crossing-the-threshold-quest/",
+      "https://nerdschalk.com/control-resonant-crossing-the-threshold-quest-archive-code-wilson-and-avp-3/"
+    ],
+    "lastReviewed": "2026-09-26"
+  },
+  {
+    "enabled": true,
+    "slug": "panopticon-service-request",
+    "pageType": "guide",
+    "navLabel": "Panopticon Service Request",
+    "title": "CONTROL Resonant Panopticon Service Request Guide",
+    "description": "Complete the CONTROL Resonant Panopticon Service Request: repair the system, identify cell D-04, tune the altered radio, and finish containment.",
+    "keywords": [
+      "control resonant panopticon service request"
+    ],
+    "primaryKeyword": "control resonant panopticon service request",
+    "secondaryKeywords": [],
+    "searchIntent": "Practical help for Panopticon Service Request",
+    "priority": "P0",
+    "navVisible": true,
+    "wordCountTarget": 800,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "PLAYER GUIDE",
+      "heading": "CONTROL Resonant Panopticon Service Request",
+      "lead": "Langston’s Panopticon Service Request has three distinct problems: a broken terminal, reversed cell labels, and a radio that must play the correct broadcast before containment."
+    },
+    "sections": [
+      {
+        "id": "quick-answer",
+        "heading": "Quick Answer",
+        "intro": "Speak with Langston at the Field Panopticon booth in Central. Install two power modules and a satellite dish, start the terminal, tell him the true cell ID is D-04, then cycle the radio to the New York World’s Fair broadcast and place it in E-05.",
+        "paragraphs": [
+          "The visible B-02 label is misleading because the cell order was reversed during reprogramming. The note near A-01 explains the rule. Applying it gives D-04 as the ID Langston needs to open the radio’s cell.",
+          "The final radio step is based on audio, not a numeric code. Picking it up and setting it down changes the segment. Enable subtitles if the announcement is hard to distinguish, then carry it to E-05 while the World’s Fair segment is playing."
+        ]
+      },
+      {
+        "id": "how-to-start-the-service-request",
+        "heading": "How to Start the Service Request",
+        "intro": "Reach the FBC Field Office in Central and speak with Langston in the southeast area by the Field Panopticon booth. Finish his dialogue to take the assignment.",
+        "paragraphs": [
+          "The quest remains close to the Field Office but locks Dylan into a containment-room sequence. Enter the panopticon and turn left into the small security booth. The door closing behind you is part of the event. The booth terminal is the first object to inspect.",
+          "This is a local puzzle rather than a zone-spanning collection route. Keep the room’s cell labels in view and solve each stage before moving on. Returning to the terminal after the repairs is necessary; placing components alone does not start the security system."
+        ]
+      },
+      {
+        "id": "repair-the-security-terminal",
+        "heading": "Repair the Security Terminal",
+        "intro": "The terminal requires two power modules in its server rack and one satellite dish mounted above the containment cells.",
+        "paragraphs": [
+          "Carry each module to the rack and put it in an empty red slot. For the dish, look up: its receiver is on the metal tower above the cells, not beside the floor-level terminal. You can climb while holding it. Watch the indicator change when the dish is seated, then return to the booth and select the terminal’s start option.",
+          "The dish position is a frequent sticking point because it is higher than the pickup. Search for the flashing red receiver above the cell bank, climb onto the enclosed room or cell top, and insert it there. A player report independently confirms this vertical placement."
+        ],
+        "table": {
+          "caption": "Security components",
+          "columns": [
+            "Part",
+            "Where to find it",
+            "Where it goes"
+          ],
+          "rows": [
+            [
+              "Power module 1",
+              "Near the terminal and booth entrance",
+              "Red rack slot inside booth"
+            ],
+            [
+              "Power module 2",
+              "Near the concrete obstacles by cell A-01",
+              "Other red rack slot"
+            ],
+            [
+              "Satellite dish",
+              "Near cell C-03",
+              "Tower above cell E-05"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "find-the-correct-cell-id",
+        "heading": "Find the Correct Cell ID",
+        "intro": "Langston asks for the cell containing the Altered Radio. The visible plate reads B-02, but a note near A-01 says the cells were reprogrammed in the opposite direction without relabeling the plates.",
+        "paragraphs": [
+          "Reverse the alphabetic sequence and the number sequence. B maps to D, while 02 maps to 04. Radio Langston and choose category D followed by number 04. That is the operational ID of the cell he can unlock.",
+          "Do not keep repeating B-02 because it is the plate you can see. The puzzle is about translating a physical label into the security system’s current designation. The note is the in-room explanation of why the apparent ID fails."
+        ],
+        "table": {
+          "caption": "Reversed label example",
+          "columns": [
+            "Visible plate",
+            "System ID",
+            "Dialogue choice"
+          ],
+          "rows": [
+            [
+              "B-02",
+              "D-04",
+              "Category D, number 04"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "tune-and-contain-the-altered-radio",
+        "heading": "Tune and Contain the Altered Radio",
+        "intro": "Once the correct cell opens, take the radio. It cycles through broadcasts when Dylan picks it up and puts it down. Wait for the segment about the New York World’s Fair.",
+        "paragraphs": [
+          "The target broadcast is identifiable by its subject, so you do not need to memorize a timer or guess from background music. Put the radio down, listen, and repeat until the announcement is unmistakable. Moving it to E-05 during another segment will not satisfy the containment condition."
+        ],
+        "steps": [
+          {
+            "heading": "Listen to the current program.",
+            "description": "Use subtitles if needed; the target segment discusses the World’s Fair ending that night."
+          },
+          {
+            "heading": "Cycle the radio.",
+            "description": "Pick it up and set it down to move to the next segment; locate it again if it shifts position."
+          },
+          {
+            "heading": "Carry it to E-05.",
+            "description": "When the World’s Fair announcement is playing, put the radio on the pedestal in cell E-05."
+          },
+          {
+            "heading": "Wait for containment.",
+            "description": "Langston closes the cell remotely and the completion message appears."
+          }
+        ]
+      },
+      {
+        "id": "common-sticking-points",
+        "heading": "Common Sticking Points",
+        "intro": "This request can look like one long broken interaction when it is really three separate checks: component installation, cell translation and radio timing.",
+        "paragraphs": [
+          "After a wrong cell answer, revisit the note by A-01 to reset your mental map, then give the translated ID. After an unsuccessful radio placement, remove it and cycle the broadcast again. The quest is complete when the game presents its completion cue and Langston releases the lockdown."
+        ],
+        "bullets": [
+          "Terminal still red: inspect both rack slots and the dish receiver above E-05.",
+          "Langston will not open the apparent cell: answer D-04 rather than the visible B-02.",
+          "Radio does not finish the quest: cycle to the World’s Fair announcement before placing it."
+        ]
+      },
+      {
+        "id": "result-and-related-guides",
+        "heading": "Result and Related Guides",
+        "intro": "The reported rewards include Aramid Work Clothes and an Untapped Feeding Bottle artifact recipe. An outfit may need to be equipped at a wardrobe rather than appearing on Dylan automatically.",
+        "paragraphs": [
+          "If you are clearing Central, Crossing the Threshold is the separate evidence hunt through Field Hospital, Dig Site and Warehouse. Unsupervised Science begins nearby but soon expands into six underground facilities."
+        ],
+        "links": [
+          {
+            "label": "Crossing the Threshold walkthrough",
+            "slug": "crossing-the-threshold",
+            "description": "Central investigation and AVP-3 decision."
+          },
+          {
+            "label": "Unsupervised Science walkthrough",
+            "slug": "unsupervised-science",
+            "description": "Testing Facility routes."
+          }
+        ]
+      },
+      {
+        "id": "last-reviewed",
+        "heading": "Last Reviewed",
+        "intro": "September 26, 2026."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What cell ID should I tell Langston?",
+        "answer": "D-04: the plate reads B-02 but the system uses the reversed designation."
+      },
+      {
+        "question": "Where does the satellite dish go?",
+        "answer": "On the metal tower above the containment cells, over E-05."
+      },
+      {
+        "question": "Which radio program is needed?",
+        "answer": "The New York World’s Fair announcement before placing the radio in E-05."
+      }
+    ],
+    "relatedSlugs": [
+      "crossing-the-threshold",
+      "unsupervised-science"
+    ],
+    "sourceNotes": [
+      "https://allthings.how/panopticon-service-request-walkthrough-in-control-resonant-d-04-cell-id/",
+      "https://games.gg/control-resonant/guides/control-resonant-how-to-complete-panopticon-service-request-quest/",
+      "https://www.reddit.com/r/ControlResonant/comments/1wnkocb/panopticon_service_request/"
+    ],
+    "lastReviewed": "2026-09-26"
+  },
+  {
+    "enabled": true,
+    "slug": "laundromat-puzzle",
+    "pageType": "guide",
+    "navLabel": "Laundromat Puzzle",
+    "title": "CONTROL Resonant Laundromat Puzzle Solution",
+    "description": "Solve the CONTROL Resonant Laundromat Puzzle with the seven-row washer code, open the hidden basement, and collect the Health Upgrade Point.",
+    "keywords": [
+      "control resonant laundromat puzzle"
+    ],
+    "primaryKeyword": "control resonant laundromat puzzle",
+    "secondaryKeywords": [],
+    "searchIntent": "Practical help for Laundromat Puzzle",
+    "priority": "P0",
+    "navVisible": true,
+    "wordCountTarget": 800,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "PLAYER GUIDE",
+      "heading": "CONTROL Resonant Laundromat Puzzle Solution",
+      "lead": "The Wear’Em & Wash’Em laundromat in Central hides a seven-row washing-machine puzzle. Each digit on the note is a machine state: 1 on, 0 off."
+    },
+    "sections": [
+      {
+        "id": "quick-solution",
+        "heading": "Quick Solution",
+        "intro": "Set the rows to 0001000 / 001100 / 100001 / 000000 / 000000 / 000000 / 100000. Six machines should be running; the rear break-room wall then opens toward the basement.",
+        "paragraphs": [
+          "The first row is the long left-wall bank. The next four rows are the two faces of the center islands. The final two rows are separate sections of the right wall. Count physical machine positions even if a unit is out of order.",
+          "If your code matches but the passage stays closed, check the last row first. Confirm which end of that machine bank corresponds to the first digit on the note before changing anything else."
+        ]
+      },
+      {
+        "id": "where-the-laundromat-is",
+        "heading": "Where the Laundromat Is",
+        "intro": "Look for the blue Wear’Em & Wash’Em sign in Central, around the large plaza east of the Field Office. The storefront can be blocked by floating debris attached to red Hiss growths.",
+        "paragraphs": [
+          "Follow the red tendrils away from the door and destroy the growths at their ends. Once the barrier clears, enter and read the Laundry Puzzle notice or While You Wait note on the rear bulletin board. The note provides the binary rows rather than a button sequence.",
+          "The entrance barrier and the washer code are separate gates. If you cannot enter, solve the exterior growth problem. If you are already inside but the basement is closed, work on machine states. This distinction prevents you from searching the street for a second key."
+        ]
+      },
+      {
+        "id": "read-the-seven-row-note",
+        "heading": "Read the Seven-Row Note",
+        "intro": "Treat each line as one horizontal bank or island face, in room order from the left wall toward the right. A 1 means switch the corresponding washer on; a 0 means leave it off.",
+        "paragraphs": [
+          "The island faces count as separate rows even though they share a physical structure. The right wall is also divided into front and rear sections by a pillar. Reading the note as seven vertical stacks or as seven rooms gives the wrong layout.",
+          "Broken or out-of-order units still occupy a numbered position. Do not compress a row by ignoring one. The puzzle is about the state of the whole physical arrangement, including machines that cannot be switched."
+        ],
+        "table": {
+          "caption": "Exact washer states",
+          "columns": [
+            "Row",
+            "Binary code",
+            "Switch on",
+            "Room landmark"
+          ],
+          "rows": [
+            [
+              "1",
+              "0001000",
+              "4th of 7",
+              "Long left-wall bank"
+            ],
+            [
+              "2",
+              "001100",
+              "3rd and 4th",
+              "Left island, face toward left wall"
+            ],
+            [
+              "3",
+              "100001",
+              "1st and 6th",
+              "Left island, face toward aisle"
+            ],
+            [
+              "4",
+              "000000",
+              "None",
+              "Right island, face toward aisle"
+            ],
+            [
+              "5",
+              "000000",
+              "None",
+              "Right island, face toward right wall"
+            ],
+            [
+              "6",
+              "000000",
+              "None",
+              "Right wall, rear section"
+            ],
+            [
+              "7",
+              "100000",
+              "First position in row",
+              "Right wall, front section"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "step-by-step-laundromat-solution",
+        "heading": "Step-by-Step Laundromat Solution",
+        "intro": "Stand at the main entrance and orient yourself before touching any controls. Read the machine banks from left to right across the room.",
+        "paragraphs": [
+          "No master lever is needed once the states are right. Walk to the back and look for the opened passage. The solution depends on the final on/off pattern, not the order in which you flipped individual machines. You can correct a mistaken switch without restarting the whole puzzle."
+        ],
+        "steps": [
+          {
+            "heading": "Clear the doorway.",
+            "description": "Destroy the Hiss growths connected to the floating debris outside."
+          },
+          {
+            "heading": "Set the left wall.",
+            "description": "Turn on only the middle machine in the seven-unit bank."
+          },
+          {
+            "heading": "Set both faces of the left island.",
+            "description": "On the outer face, activate the middle pair; on the aisle face, activate the two ends."
+          },
+          {
+            "heading": "Silence the right island and rear wall.",
+            "description": "Rows four, five and six contain only zeros."
+          },
+          {
+            "heading": "Set the front right wall.",
+            "description": "Turn on only the first position indicated by row seven, leaving its other five units off."
+          },
+          {
+            "heading": "Enter the opened break room.",
+            "description": "Go through the newly revealed rear wall and take the stairs down."
+          }
+        ]
+      },
+      {
+        "id": "why-this-pattern-works",
+        "heading": "Why This Pattern Works",
+        "intro": "The note is a compact map of binary states. A seven-digit row describes seven physical positions; a six-digit row describes six. The code maps to washer banks, not to a timed rhythm.",
+        "paragraphs": [
+          "Rows four through six being all zero is easy to overlook. Players often activate a nearby washer while exploring and later forget to switch it off. Check the lamps or running sound of every machine on the right island and back wall.",
+          "There are six 1s in the full note. If seven or more washers are active, the rear passage cannot open. A quick recount is often faster than rereading every digit: one on the left wall, two on the left island’s outer face, two on its aisle face, and one on the right-wall front section."
+        ]
+      },
+      {
+        "id": "common-mistakes-and-reward",
+        "heading": "Common Mistakes and Reward",
+        "intro": "The last row is easy to misread if you count machines from the opposite end of the bank. Recheck its first digit against the note before changing the other rows.",
+        "paragraphs": [
+          "The opened staircase leads to a basement shelter. Open the Third Ice chest for a Health Upgrade Point. The basement also counts as a Secret Hideout location, a different completion objective from the washer interaction itself.",
+          "If you came looking for an altered camera, note that another laundromat appears in the Unknown zone during Freeze Frame. That camera route and the Central washer puzzle are different activities."
+        ],
+        "bullets": [
+          "Count out-of-order machines as positions even though they cannot be activated.",
+          "Check both faces of each center island separately.",
+          "Keep the entire right island and rear right wall off.",
+          "For row seven, match the first slot of the six-position code and keep the other five off."
+        ],
+        "links": [
+          {
+            "label": "Freeze Frame camera locations",
+            "slug": "freeze-frame",
+            "description": "Includes an Unknown-zone laundromat camera."
+          },
+          {
+            "label": "Panopticon Service Request",
+            "slug": "panopticon-service-request",
+            "description": "Another self-contained Central puzzle."
+          }
+        ]
+      },
+      {
+        "id": "last-reviewed",
+        "heading": "Last Reviewed",
+        "intro": "September 26, 2026."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What does 1 mean on the laundry note?",
+        "answer": "The matching washer must be on; 0 means off."
+      },
+      {
+        "question": "How many washers should be running?",
+        "answer": "Six across the seven rows."
+      },
+      {
+        "question": "What is behind the break-room wall?",
+        "answer": "Basement stairs leading to a Third Ice chest with a Health Upgrade Point."
+      }
+    ],
+    "relatedSlugs": [
+      "freeze-frame",
+      "panopticon-service-request"
+    ],
+    "sourceNotes": [
+      "https://controlresonantgame.com/laundry-puzzle",
+      "https://nerdschalk.com/control-resonant-laundromat-puzzle-location-washer-sequence-and-chest/",
+      "https://www.method.gg/guides/how-to-solve-the-central-laundromat-puzzle-in-control-resonant",
+      "https://www.method.gg/control-resonant/control-resonant-how-to-solve-the-central-laundromat-puzzle"
+    ],
+    "lastReviewed": "2026-09-26"
+  }
+]

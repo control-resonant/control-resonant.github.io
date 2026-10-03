@@ -1,0 +1,255 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "CONTROL Resonant Guide, Wiki, Walkthrough & Puzzle Solutions",
+  "description": "Explore CONTROL Resonant quest walkthroughs, puzzle solutions, collectible routes and combat guides for the moments that stop you in Manhattan.",
+  "keywords": [
+    "CONTROL Resonant",
+    "CONTROL Resonant guide",
+    "CONTROL Resonant wiki",
+    "CONTROL Resonant walkthrough",
+    "CONTROL Resonant puzzle solutions"
+  ],
+  "primaryKeyword": "CONTROL Resonant",
+  "secondaryKeywords": [
+    "CONTROL Resonant guide",
+    "CONTROL Resonant wiki",
+    "CONTROL Resonant walkthrough",
+    "CONTROL Resonant puzzle solutions",
+    "CONTROL Resonant quests"
+  ],
+  "searchIntent": "Players looking for practical CONTROL Resonant quest, puzzle, collectible and combat help.",
+  "priority": "P0",
+  "navVisible": true,
+  "wordCountTarget": 1200,
+  "factsStatus": "verified",
+  "hero": {
+    "eyebrow": "PLAYER GUIDE",
+    "heading": "CONTROL Resonant Guide",
+    "lead": "Find CONTROL Resonant quest walkthroughs, puzzle solutions, collectibles, combat tips and focused guides for the routes that stop players in Manhattan.",
+    "supportingText": "Fast answers first, followed by the context needed to finish each activity.",
+    "primaryLink": {
+      "label": "Start with the quest guides",
+      "slug": "unsupervised-science"
+    },
+    "secondaryLink": {
+      "label": "Official CONTROL Resonant page",
+      "url": "https://store.steampowered.com/app/3669870/"
+    }
+  },
+  "sections": [
+    {
+      "id": "start-here",
+      "heading": "CONTROL Resonant Guide: Start Here",
+      "intro": "CONTROL Resonant is an action-adventure RPG from Remedy Entertainment in which Dylan Faden leaves the Oldest House for a Manhattan distorted by a paranatural crisis. The official Steam description highlights exploration, gravity anomalies, evolving threats and Dylan's shapeshifting melee weapon, the Aberrant.",
+      "paragraphs": [
+        "This guide hub is organized around the moments where a broad overview is least useful: an active quest objective, a room with a solution hidden in its layout, a collectible route, or a combat system that needs a clear input sequence. Open the guide matching the title in your mission log instead of trying to force unrelated markers into the same route.",
+        "The game does not always present activities in one fixed order. Story progress, traversal powers and open zones determine which doors, roofs and gravity paths are practical. That makes a short answer valuable, but it also makes the condition around that answer important. Each linked page starts with the quickest route before explaining the surrounding objective."
+      ],
+      "bullets": [
+        "Use quest walkthroughs when an objective marker stops making sense.",
+        "Use puzzle guides for a direct solution and a check of the room state.",
+        "Use collectible guides when you want a route that matches the zones you can currently reach."
+      ],
+      "links": [
+        {
+          "label": "CONTROL Resonant Unsupervised Science walkthrough",
+          "slug": "unsupervised-science",
+          "description": "Six testing facilities and their experiment routes."
+        },
+        {
+          "label": "Crossing the Threshold walkthrough",
+          "slug": "crossing-the-threshold",
+          "description": "The Central investigation and AVP-3 decision."
+        }
+      ]
+    },
+    {
+      "id": "quest-walkthroughs",
+      "heading": "Quest Walkthroughs",
+      "intro": "Side Stories are more than optional map pins: they commonly send Dylan through several rooms, zones or mechanics. The walkthroughs below keep the next actionable task visible while preserving the details that prevent a dead end.",
+      "subsections": [
+        {
+          "heading": "Unsupervised Science",
+          "paragraphs": [
+            "Unsupervised Science is the right page when a testing-facility marker is hovering over a surface location but the laboratory entrance is underground. Its route separates the six facilities and the two puzzle families—soda-dispenser state changes and timed power transfers—so a solution for one room is not mistaken for a solution for every room."
+          ]
+        },
+        {
+          "heading": "Crossing the Threshold",
+          "paragraphs": [
+            "Crossing the Threshold follows evidence through Central's Field Hospital, Loading Docks, Dig Site and Security Station before leading to Wilson. The walkthrough is structured as an investigation, then a return route, rather than a plot recap."
+          ]
+        },
+        {
+          "heading": "Panopticon Service Request",
+          "paragraphs": [
+            "Panopticon Service Request begins as maintenance at Langston's Central field panopticon and becomes an Altered Item containment task. The guide keeps its batteries, dish repair, cell identification and radio timing in the order the terminal asks for them."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Unsupervised Science",
+          "slug": "unsupervised-science",
+          "description": "Testing facilities, experiments and the final Threshold."
+        },
+        {
+          "label": "Crossing the Threshold",
+          "slug": "crossing-the-threshold",
+          "description": "Evidence trail, Wilson and the Dig Site return."
+        },
+        {
+          "label": "Panopticon Service Request",
+          "slug": "panopticon-service-request",
+          "description": "Repair the panopticon and contain the radio."
+        }
+      ]
+    },
+    {
+      "id": "puzzle-solutions",
+      "heading": "Puzzle Solutions",
+      "intro": "Puzzle pages are separate from walkthroughs because they answer a different question: what should be changed in this room right now? They put the result before the explanation, then explain how to check the state if the trigger does not fire.",
+      "subsections": [
+        {
+          "heading": "Laundromat Puzzle",
+          "paragraphs": [
+            "The Central Wear'Em & Wash'Em laundromat uses a seven-row 0/1 note. Each row maps to washing machines; 1 means on and 0 means off. The solution opens a secret passage after the exterior blockade has been cleared."
+          ]
+        },
+        {
+          "heading": "Freeze Frame",
+          "paragraphs": [
+            "Freeze Frame is a route puzzle repeated across the map. Altered cameras freeze Dylan if they see him, so the task is to find a way behind each camera and interact with it from outside its field of view."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Laundromat Puzzle solution",
+          "slug": "laundromat-puzzle",
+          "description": "The seven-row washing-machine pattern in Central."
+        },
+        {
+          "label": "Freeze Frame camera locations",
+          "slug": "freeze-frame",
+          "description": "How to approach all altered cameras unseen."
+        }
+      ]
+    },
+    {
+      "id": "collectibles",
+      "heading": "Collectibles and Side Content",
+      "intro": "Collectibles are easier to finish when routes are grouped by what you are carrying and where you can move, not by a long undifferentiated checklist.",
+      "paragraphs": [
+        "The Complete Set is a speaker-and-subwoofer side story centered on an Auction House ritual. It has a known final interaction issue, so the guide includes the official support advice beside the collection route. Dog Toy Locations follows the Mysterious Dog through seven regions, where each return depends on carrying the missing dragon toy back to the bed.",
+        "Both activities reward observation of the immediate environment. For the dog route, Chowrap signs are a useful visual clue; for the speaker route, the relevant item and ritual space matter more than clearing every nearby icon first."
+      ],
+      "links": [
+        {
+          "label": "The Complete Set speaker locations",
+          "slug": "the-complete-set",
+          "description": "Four speakers, the subwoofer and the Auction House ritual."
+        },
+        {
+          "label": "Dog Toy Locations and the Mysterious Dog",
+          "slug": "dog-toy-locations",
+          "description": "Seven dragon-toy returns across Manhattan."
+        }
+      ]
+    },
+    {
+      "id": "combat",
+      "heading": "Combat Guides",
+      "intro": "Combat guidance is deliberately limited to a system with a clear, repeatable purpose instead of pretending every encounter has one universal build.",
+      "paragraphs": [
+        "Combo Finishers extend Dylan's normal primary-weapon chain. Once unlocked and equipped, they give the final input a distinct role: focused Falter pressure, room-clearing space or a persistent blade effect. The choice is situational, so the combat page compares use cases rather than declaring a permanent tier list.",
+        "The official game description confirms that the Aberrant shifts between forms and that combat combines the environment, elemental abilities and melee weaponry. Use that flexibility: a finisher is strongest when it closes a safe string, not when it forces Dylan to stand inside an incoming attack."
+      ],
+      "links": [
+        {
+          "label": "CONTROL Resonant Combo Finishers",
+          "slug": "combo-finishers",
+          "description": "Unlock, equip and use the six finishers by situation."
+        }
+      ]
+    },
+    {
+      "id": "most-searched",
+      "heading": "Most Searched CONTROL Resonant Guides",
+      "intro": "These eight focused guides cover the launch set. Choose the exact activity in front of you; every card leads to a self-contained answer rather than a generic wiki page.",
+      "links": [
+        {
+          "label": "The Complete Set",
+          "slug": "the-complete-set",
+          "description": "Find the altered speaker set and finish the Auction House ritual."
+        },
+        {
+          "label": "Dog Toy Locations",
+          "slug": "dog-toy-locations",
+          "description": "Return each Mysterious Dog's teal toy and finish the side story."
+        },
+        {
+          "label": "Unsupervised Science",
+          "slug": "unsupervised-science",
+          "description": "Locate testing facilities and shut down their experiments."
+        },
+        {
+          "label": "Freeze Frame",
+          "slug": "freeze-frame",
+          "description": "Approach altered cameras from behind in every zone."
+        },
+        {
+          "label": "Combo Finishers",
+          "slug": "combo-finishers",
+          "description": "Spend Living Shards with a clear combat purpose."
+        },
+        {
+          "label": "Crossing the Threshold",
+          "slug": "crossing-the-threshold",
+          "description": "Follow Central's expedition evidence to the Threshold."
+        },
+        {
+          "label": "Panopticon Service Request",
+          "slug": "panopticon-service-request",
+          "description": "Repair a field panopticon and contain the World's Fair Radio."
+        },
+        {
+          "label": "Laundromat Puzzle",
+          "slug": "laundromat-puzzle",
+          "description": "Set the Central washing-machine rows correctly."
+        }
+      ]
+    },
+    {
+      "id": "about",
+      "heading": "About CONTROL Resonant",
+      "intro": "CONTROL Resonant is developed and published by Remedy Entertainment. On Steam, it is described as a single-player action, adventure and RPG set in a warped Manhattan after a paranatural catastrophe escapes the Oldest House.",
+      "paragraphs": [
+        "Dylan Faden is the playable lead. Steam describes his path as a search for his sister Jesse while he develops paranatural abilities and fights the Hiss, Mold and other threats. The setting's gravity anomalies are not just scenery: they reshape routes and add tactical decisions to combat.",
+        "For purchase details, editions, supported languages and current platform information, use the official Steam page. This site concentrates on playable routes and avoids turning changing storefront data into the center of every guide."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is CONTROL Resonant?",
+      "answer": "CONTROL Resonant is Remedy Entertainment's action-adventure RPG sequel starring Dylan Faden in a paranaturally altered Manhattan."
+    },
+    {
+      "question": "Where can I find CONTROL Resonant puzzle solutions?",
+      "answer": "Use the Laundromat Puzzle guide for the Central washing-machine solution and Freeze Frame for altered-camera routes."
+    },
+    {
+      "question": "Does this site include CONTROL Resonant quest walkthroughs?",
+      "answer": "Yes. Unsupervised Science, Crossing the Threshold and Panopticon Service Request each have their own walkthrough."
+    },
+    {
+      "question": "Where can I find collectibles and side-quest guides?",
+      "answer": "The Complete Set and Dog Toy Locations cover the launch collectible and side-content routes."
+    }
+  ],
+  "screenshots": [],
+  "lastReviewed": "2026-09-26"
+}
